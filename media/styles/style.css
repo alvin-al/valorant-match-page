@@ -479,7 +479,7 @@ main aside .live-container {
     max-height: 50px;
     margin: 0;
     padding: 0;
-    height: 50px;
+    height: 100%;
 }
 
 main aside .live-container .live-team {
@@ -496,7 +496,5 @@ main aside .live-container .live-team h4 {
 main aside .live-container .live-team img {
     max-width: 20px;
 } 
-
-
 
 }
