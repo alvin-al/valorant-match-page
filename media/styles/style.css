@@ -230,7 +230,28 @@ main aside .live-container .live-team img {
 
 
 /* Live match end */
+footer .footer-container {
+    max-width: 100%;
+    display: flex;
+    font-family: 'Bebas Neue', sans-serif;
+    color: white;
+    gap: 2rem;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    border-top: .5px solid white;
+}
+footer .footer-container img {
+    width: 150px;
+}
 
+/* Footer start */
+
+
+
+
+
+/* Footer end */
 
 
 /* RESPONSIVE */
